@@ -1,0 +1,8 @@
+# Private evidence must never enter Git history.
+private/
+evidence/
+journal/
+*.local.md
+
+# Local operating-system files.
+.DS_Store
